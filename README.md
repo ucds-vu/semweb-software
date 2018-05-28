@@ -1,4 +1,4 @@
-Amsterdam Semantic Web Software Stack
+Amsterdam Semantic Web Software Suite
 =====================================
 
 - [SWI Prolog](http://www.swi-prolog.org/)
